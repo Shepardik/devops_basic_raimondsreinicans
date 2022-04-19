@@ -1,1 +1,2 @@
-# devops_basic_raimondsreinicans
+# DecOps repozitorijs
+Raimonds Reinicāns DevOps repozitorijs pamati iesācējiem

@@ -4,4 +4,4 @@
 
 Autors Raimonds Reinicans  DevOps repozitorijs pamati iesācējiem [koda galbātuve][md2_add]
 
-[md2_add]: <https://github.com/Shepardik/devops_basic_raimondsreinicans>
+[md2_add]: <https://github.com/Shepardik/devops_basic_raimondsreinicans/tree/master/module_1>
